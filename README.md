@@ -1,5 +1,5 @@
 # Fuzzing 101
-So, this year (2019) me along with my colleague [Zubin](https://twitter.com/p1ngfl0yd) delivered a workshop in PHDays9 on fuzzing.
+So, this year (2019) me along with my colleague [Zubin](https://twitter.com/p1ngfl0yd) delivered a workshop in PHDays9 on fuzzing. This workshop was mainly focused on an introduction to fuzzing using AFL and ASAN.
 
 ```
 The prime focus of the workshop would be around the following areas: Fuzzing using SPIKE, blind and 
@@ -15,4 +15,4 @@ Slides: [Fuzzing-101_PHDays.pdf](https://github.com/RootUp/PHDays9/blob/master/S
 Ubuntu OVA: Uploading ...<br>
 Size: 4.x GB <br>
 Username: PHDays <br>
-Password: E@sy
+Password: E@sy  
