@@ -10,11 +10,11 @@ research.
 
 Here are the slides and OVA file which was used during the workshop.
 
-Slides: [Fuzzing-101_PHDays.pdf](https://github.com/RootUp/PHDays9/blob/master/Slides/Fuzzing-101_PHDays.pdf)
+**Slides:** [Fuzzing-101_PHDays.pdf](https://github.com/RootUp/PHDays9/blob/master/Slides/Fuzzing-101_PHDays.pdf)
 
-Ubuntu OVA: [Ubuntu_Fuzzing101.ova](https://drive.google.com/file/d/1FjUsIa3e6z0kQ93-7ogV_oJMPcuOPyGI/view)<br>
-Size: 4.x GB <br>
-Username: PHDays <br>
-Password: E@sy
+**Ubuntu OVA:** [Ubuntu_Fuzzing101.ova](https://drive.google.com/file/d/1FjUsIa3e6z0kQ93-7ogV_oJMPcuOPyGI/view)<br>
+**Size:** 4.x GB <br>
+**Username:** PHDays <br>
+**Password:** E@sy
 
 Read this on my blog: https://www.inputzero.io/2019/05/phdays-fuzzing-workshop.html
